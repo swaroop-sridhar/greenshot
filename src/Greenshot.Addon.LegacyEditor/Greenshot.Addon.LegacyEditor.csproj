@@ -5,6 +5,7 @@
     <AssemblyName>Greenshot.Addon.LegacyEditor</AssemblyName>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
